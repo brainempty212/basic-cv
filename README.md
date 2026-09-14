@@ -39,3 +39,7 @@ You can also use the Live Server extension in Visual Studio Code.
 ## Project Repository
 
 [Github](https://github.com/brainempty212/basic-cv)
+
+## URL Project
+
+https://roadmap.sh/projects/single-page-cv
